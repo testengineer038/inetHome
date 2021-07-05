@@ -1,0 +1,9 @@
+com\inetHome\PageObjects\LoginPage.class
+com\inetHome\PageObjects\AddCustomerPage.class
+com\inetHome\TestCases1\BaseClass.class
+com\inetHome\TestCases1\TC_LoginTest_001.class
+com\inetHome\Utilities\XLUtils.class
+com\inetHome\TestCases1\TC_AddCustomerTest_003.class
+com\inetHome\Utilities\ReadConfig.class
+com\inetHome\TestCases1\TC_LoginDDT_002.class
+com\inetHome\Utilities\Reporting.class
